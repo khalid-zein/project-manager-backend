@@ -65,3 +65,7 @@ right corner of the repo page.
 
 [fork link]: https://github.com/learn-co-curriculum/phase-3-sinatra-react-project/fork
 
+
+The `app/controllers/application_controller.rb` file has an example GET route
+handler. Replace this route with routes for your project.
+
