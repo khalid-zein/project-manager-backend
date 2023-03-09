@@ -17,3 +17,4 @@ The focus of this project is building a Sinatra API backend that uses Active Rec
 
 
 ## Requirements
+For this project, you must:
