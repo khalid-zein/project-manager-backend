@@ -69,3 +69,6 @@ right corner of the repo page.
 The `app/controllers/application_controller.rb` file has an example GET route
 handler. Replace this route with routes for your project.
 
+
+You can start your server with:
+
