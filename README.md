@@ -72,3 +72,8 @@ handler. Replace this route with routes for your project.
 
 You can start your server with:
 
+
+```console
+$ bundle exec rake server
+```
+
