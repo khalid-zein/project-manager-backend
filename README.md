@@ -126,3 +126,10 @@ fetch("http://localhost:9292/test")
   sent.
 - Use the [Network Tab in the Dev Tools][network tab] in the frontend to debug
   your requests.
+  
+  
+## Resources
+
+- [create-react-app][]
+- [dbdiagram.io][]
+- [Postman][postman download]
