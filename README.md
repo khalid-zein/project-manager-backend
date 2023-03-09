@@ -29,6 +29,7 @@ For this project, you must:
     </ul>
   </li>
   <li>Build a separate React frontend application that interacts with the API to perform CRUD actions.</li>
+  <li>Implement proper front end state management. You should be updating state using a setState function after receiving your response from a POST, PATCH, or DELETE request. You should NOT be relying on a GET request to update state.</li>
 </ul>
 
 
