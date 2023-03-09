@@ -28,6 +28,7 @@ For this project, you must:
      <li>full CRUD capability for one of the models: The update action should be implemented using a form  that is pre-filled with existing values for the object. On submission of the form, the object should update. Note: Using a like button or similar will not meet the update requirement.</li>
     </ul>
   </li>
+  <li>Build a separate React frontend application that interacts with the API to perform CRUD actions.</li>
 </ul>
 
 
