@@ -62,3 +62,6 @@ before cloning it. You can do this by using the link above or by clicking the
 "Octocat" button at the top of this page, then clicking "Fork" in the upper
 right corner of the repo page.
 
+
+[fork link]: https://github.com/learn-co-curriculum/phase-3-sinatra-react-project/fork
+
