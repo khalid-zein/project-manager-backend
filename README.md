@@ -35,4 +35,6 @@ For this project, you must:
   <li>Use your back end optimally. Pass JSON for related associations to the front end from the back end. You should use active record methods in your controller to grab the needed data from your database and provide as JSON to the front end. You should NOT be relying on filtering front end state or a separate fetch request to retrieve related data.</li>
 </ul>
 
+For example, build a todo list application with a React frontend interface and a Sinatra backend API, where a user can:
+
 
