@@ -30,6 +30,7 @@ For this project, you must:
   </li>
   <li>Build a separate React frontend application that interacts with the API to perform CRUD actions.</li>
   <li>Implement proper front end state management. You should be updating state using a setState function after receiving your response from a POST, PATCH, or DELETE request. You should NOT be relying on a GET request to update state.</li>
+  <li>Use good OO design patterns. You should have separate classes for each of your models, and create instance and class methods as necessary.</li>
 </ul>
 
 
