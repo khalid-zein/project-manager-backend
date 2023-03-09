@@ -18,3 +18,16 @@ The focus of this project is building a Sinatra API backend that uses Active Rec
 
 ## Requirements
 For this project, you must:
+
+<ul>
+  <li>Use Active Record to interact with a database.</li>
+  <li>Have at least two models with a one-to-many relationship.</li>
+  <li>At a minimum, set up the following API routes in Sinatra:
+   <ul>
+     <li>create and read actions for both models</li>
+     <li>full CRUD capability for one of the models: The update action should be implemented using a form  that is pre-filled with existing values for the object. On submission of the form, the object should update. Note: Using a like button or similar will not meet the update requirement.</li>
+    </ul>
+  </li>
+</ul>
+
+
