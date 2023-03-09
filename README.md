@@ -38,6 +38,10 @@ For this project, you must:
 For example, build a todo list application with a React frontend interface and a Sinatra backend API, where a user can:
 
 <ul>
+  <li>Create a new todo</li>
+  <li>Read a list of all todos</li>
+  <li>Update an individual todo</li>
+  <li>Delete a todo</li>
 </ul>
 
 
