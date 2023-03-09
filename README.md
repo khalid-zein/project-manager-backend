@@ -144,4 +144,8 @@ fetch("http://localhost:9292/test")
 
 ```
 ### Author
-Khalid Zein
+    Khalid Zein
+
+
+### License
+    This project is licensed under the MIT License
